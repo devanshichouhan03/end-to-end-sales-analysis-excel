@@ -1,4 +1,4 @@
-# end-to-end-sales-analysis-excel
+# end-to-end sales analysis excel
 
  An interactive Excel dashboard built from raw data to generate business insights and performance analytics.
 
