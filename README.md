@@ -8,7 +8,7 @@ To analyze raw sales data and build an interactive dashboard to track performanc
 
 Tools Used
 
-1 ) Microsoft Excel
+1) Microsoft Excel
 
 2) Pivot Tables
 
@@ -33,6 +33,10 @@ Key Metrics
 2) Target Hit %
 
 3) Away from Target %
+  
+4) Executive Performance
+
+5) City-wise Filtering
 
 Dashboard Preview
 
@@ -41,6 +45,4 @@ Dashboard Preview
 Note: This file is macro-enabled (.xlsm) and contains interactive dashboard navigation and automation features.
 
 
-Executive Performance
 
-City-wise Filtering
