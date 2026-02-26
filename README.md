@@ -1,6 +1,6 @@
 # end-to-end-sales-analysis-excel
-Interactive Excel dashboard analyzing sales performance, target achievement, and executive metrics using Pivot Tables, XLOOKUP, and INDEX-MATCH.
-End-to-End Sales Analysis Dashboard (Excel)
+
+ An interactive Excel dashboard built from raw data to generate business insights and performance analytics.
 
  Objective
 
